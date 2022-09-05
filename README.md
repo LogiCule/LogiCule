@@ -16,7 +16,7 @@ Web Developer with a flair for Logical Thinking.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,6 +32,48 @@ Web Developer with a flair for Logical Thinking.
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+🌆 Daytime    38 commits     ███████████████░░░░░░░░░░   63.33% 
+🌃 Evening    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌙 Night      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Wednesday    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Thursday     13 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Saturday     7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Sunday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -47,7 +89,7 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LogiCule/LogiCule/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:50:03 UTC
+ Last Updated on 05/09/2022 18:53:23 UTC
 <!--END_SECTION:waka-->
 
 ---
