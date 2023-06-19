@@ -1,106 +1,36 @@
 [![banner](./images/logicule.svg)](https://www.linkedin.com/in/rahul-dubey-707b4452/)
 
-**Hey there Stranger!**
-
-I'm [Rahul Dubey](https://www.linkedin.com/in/rahul-dubey-707b4452/)
-
-Web Developer with a flair for Logical Thinking.
-
-**💻 My Skills & Tools I use**
-
-[![banner](./images/skills&tools.svg)](https://leetcode.com/LogiCule/)
-
-<details>
-  <summary>Stats</summary>
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 63 Contributions in the Year 2022
- > 
-> 📦 355 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-🌆 Daytime    38 commits     ███████████████░░░░░░░░░░   63.33% 
-🌃 Evening    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌙 Night      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Wednesday    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     13 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67% 
-Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Saturday     7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-Sunday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
+<h1 align="center">Hi 👋, I'm Rahul Dubey</h1>
+<h3 align="center">A passionate frontend developer with the flair for logical thinking</h3>
+<img align="right" width="400" src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logicule&label=Profile%20views&color=0e75b6&style=flat" alt="logicule" /> </p>
 
 
-📊 **This Week I Spent My Time On** 
+- 🔭 I’m currently working in **Intellicar Telematics**
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
+- 🌱 I’m currently learning **React , System Design**
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+- 💬 Ask me about **Data structures and Algorithm**
 
-🔥 Editors: 
-No Activity Tracked This Week
+- 📫 How to reach me **rahuldubey7398@gmail.com**
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      3 repos             ███████████████░░░░░░░░░░   60.0% 
-Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
-
-```
+- ⚡ Fun fact **I can't see anything if I close my eyes**
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/LogiCule/LogiCule/master/charts/bar_graph.png) 
-
-
- Last Updated on 08/11/2022 19:01:41 UTC
-<!--END_SECTION:waka-->
-
----
-
- </details>
-
-**🎵 I'm Listening to**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/logicule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logicule" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/logicule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logicule" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/logicule/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="logicule/profile" height="30" width="40" /></a>
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicule" alt="logicule" /></a> </p>
 
 
-<object data="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39" >
-  
-<img src="https://now-play.vercel.app/api/generate?uid=e795ed50-c82f-475f-8f4a-b4d48439ef39&theme=dark" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-</object>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logicule&show_icons=true&locale=en&layout=compact" alt="logicule" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logicule&show_icons=true&locale=en" alt="logicule" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicule&" alt="logicule" /></p>
