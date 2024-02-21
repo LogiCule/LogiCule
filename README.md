@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I can't see anything if I close my eyes**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1JY5JaEAU10L1VdTpqiBVG-aK4LeZX6ef/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1_Sw6ZRF1j7RaxKZYLacwHMQgjmsw3XVc/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
