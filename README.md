@@ -1,34 +1,79 @@
-[![banner](./images/logicule.svg)](https://www.linkedin.com/in/rahul-dubey-707b4452/)
+[![Banner](./images/logicule.svg)](https://logicule.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Rahul Dubey</h1>
-<h3 align="center">Software Engineer - Frontend (React JS)</h3>
+<h3 align="center">M.Tech CSE Student @ IIIT Bangalore | Ex-Software Engineer (Frontend)</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logicule&label=Profile%20views&color=0e75b6&style=flat" alt="logicule" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicule" alt="logicule" /></a> </p>
-
-- 🌱 I’m currently learning **Next JS 14**
-
-- 👨‍💻 All of my projects are available at [https://logicule.vercel.app/](https://logicule.vercel.app/)
-
-- 💬 Ask me about **React JS, DSA**
-
-- 📫 How to reach me **rahuldubey7398@gmail.com**
-
-- 📄 Know about my experiences [https://logicule.vercel.app/](https://logicule.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/logicule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logicule" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/logicule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logicule" height="30" width="40" /></a>
+## 📊 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=logicule&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicule&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicule&" alt="logicule" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logicule&show_icons=true&locale=en&layout=compact" alt="logicule" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logicule&show_icons=true&locale=en" alt="logicule" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicule&" alt="logicule" /></p>
+### 🚀 About Me  
+I'm currently pursuing my **M.Tech in Computer Science at IIIT Bangalore (2025–27)**, focusing on  
+**Software Engineering, System Design, Frontend Development, and Data Structures & Algorithms**.
+
+Previously, I worked as a **Software Engineer (Frontend)** for 3 years, building real-time dashboards, enterprise-grade UI systems, and performance-focused applications.
+
+- 🌱 Currently learning: **Next.js 14, System Design, Advanced DSA**
+- 🎯 Current goals: Build strong fundamentals + contribute to impactful projects
+- 💻 Portfolio: **https://logicule.vercel.app**
+- 📬 Reach me at: **rahul.dubey@iiitb.ac.in / rahuldubey7398@gmail.com**
+- 💬 Ask me about: **React.js, Next.js, UI Architecture, DSA**
+
+---
+
+## 🎓 Education  
+### 🎓 IIIT Bangalore — M.Tech CSE (2025–27)  
+Focused on **Systems, Algorithms, and Full-Stack Engineering**.
+
+---
+
+## 💼 Previous Industry Experience  
+### Intellicar Telematics | Frontend Developer (Feb 2023 – Jan 2024)  
+- Built enterprise dashboards with **React + TypeScript + Tailwind**  
+- Engineered real-time UI using WebSockets (reduced latency **60%**)  
+- Optimized APIs (cut HTTP calls by **50%**)  
+- Migrated UI to **ShadCN + Tailwind**, improving consistency **40%**
+
+### Airbus (Capgemini) | Software Engineer (Jan 2021 – Feb 2023)  
+- Built inventory dashboards improving component tracking **35%**  
+- Automated workflows saving **20+ weekly hours**  
+- Mentored junior developers (team productivity +25%)
+
+---
+
+## 🛠 Tech Stack  
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,cpp,java,tailwind,redux,nodejs,express,linux,mongodb,postgres,git,appwrite" /></a>
+</p>
+
+---
+
+## 📌 Featured Projects  
+### 🩺 Care Pulse — Healthcare Booking Platform  
+- Next.js + Tailwind + Appwrite  
+- Real-time appointment bookings  
+- Admin dashboard for approvals  
+- Faster scheduling experience  
+
+### 📸 Snapgram — Social Media Image App  
+- Responsive UI with Tailwind  
+- Like/Save/Upload interactions  
+- API caching using TanStack Query (reduced redundant calls **40%**)
+
+
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/logicule"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://leetcode.com/logicule"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+<a href="https://logicule.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="40"/></a>
+</p>
 
